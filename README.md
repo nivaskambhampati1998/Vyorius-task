@@ -8,6 +8,9 @@
 # Clone repository
 https://github.com/nivaskambhampati1998/Vyorius-task.git
 
+# install nodemon globally for restarting the server every time automatically instead of entering in terminal after changes
+npm install -g nodemon
+
 # Goto server folder
 cd server
 
